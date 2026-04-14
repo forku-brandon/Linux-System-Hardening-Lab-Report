@@ -178,7 +178,7 @@ Disclaimer
 This lab is intended for educational purposes in a controlled environment. Always test security configurations in a non-production environment first and ensure compliance with your organization's security policies before implementing in production.
 
 Author
-[Your Name] - Linux System Administration Student
+Forku Brandon - Cyber Security Student at the center of cybersecury and mathemaitcal cryptology
 
 Date
 April 14, 2026
