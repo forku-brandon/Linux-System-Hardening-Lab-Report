@@ -1,3 +1,4 @@
+
 # Linux System Hardening Lab
 
 ## Project Overview
@@ -46,7 +47,7 @@ This repository documents a comprehensive Linux system hardening lab that implem
 ## Key Commands Executed
 
 ### User and Group Management
-
+```bash
 sudo groupadd sysadmins
 sudo useradd -m alice
 sudo useradd -m bob
@@ -195,6 +196,4 @@ Open Source community for documentation and tools
 Status: 11 of 12 tasks completed (Task 6 pending)
 
 Last Updated: April 14, 2026
-
-text
 
