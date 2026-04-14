@@ -1,3 +1,4 @@
+
 # Linux System Hardening Lab
 
 ## Project Overview
@@ -46,7 +47,7 @@ This repository documents a comprehensive Linux system hardening lab that implem
 ## Key Commands Executed
 
 ### User and Group Management
-
+```bash
 sudo groupadd sysadmins
 sudo useradd -m alice
 sudo useradd -m bob
@@ -177,7 +178,7 @@ Disclaimer
 This lab is intended for educational purposes in a controlled environment. Always test security configurations in a non-production environment first and ensure compliance with your organization's security policies before implementing in production.
 
 Author
-[Your Name] - Linux System Administration Student
+Forku Brandon - Cyber Security Student at the center of cybersecury and mathemaitcal cryptology
 
 Date
 April 14, 2026
@@ -195,6 +196,4 @@ Open Source community for documentation and tools
 Status: 11 of 12 tasks completed (Task 6 pending)
 
 Last Updated: April 14, 2026
-
-text
 
